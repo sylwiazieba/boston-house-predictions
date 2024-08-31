@@ -22,3 +22,7 @@ Each record in the database describes a house in Boston suburb or town. The data
 - PTRATIO: Pupil-teacher ratio by town
 - LSTAT: % lower status of the population
 - MEDV: Median value of owner-occupied homes in 1000 dollars
+
+**Check out the jupyter notebook in the repository for the detailed analysis.** 
+
+https://github.com/sylwiazieba/boston-house-predictions/blob/main/Linear%20Regression%20Boston%20House%20Price%20Prediction.ipynb
