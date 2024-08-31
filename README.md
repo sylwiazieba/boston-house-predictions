@@ -1,12 +1,13 @@
-Regression Project: Boston House Price Prediction
+Linear Regression Project: Boston House Price Prediction
 -------------------------------
-*Objective*
+**Objective**
+
 The problem at hand is to predict the housing prices of a town or a suburb based on the features of the locality provided to us. In the process, we need to identify the most important features affecting the price of the house. We will employ techniques of data preprocessing and build a linear regression model that predicts the prices for the unseen data.
 
-*Dataset*
+**Dataset**
 Each record in the database describes a house in Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The data and prompts for the exercise was provided by MIT Applied Data Science Program.
 
-Attribute Information:
+*Attribute Information:*
 
 - CRIM: Per capita crime rate by town
 - ZN: Proportion of residential land zoned for lots over 25,000 sq.ft.
